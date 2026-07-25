@@ -2,7 +2,7 @@
 # Define directories
 # ------------------------
 input_dir <- "C:/Users/tim4t/OneDrive - Royal Veterinary College/Clofazimine_project/Parietal bone/2D results"
-output_dir <- "C:/Users/tim4t/OneDrive - Royal Veterinary College/Clofazimine_project/Parietal bone/Cleaned 2D data for graphs and heatmaps"
+output_dir <- "C:/Users/tim4t/OneDrive - Royal Veterinary College/Clofazimine_project/Parietal bone/cleaned 2D data"
 
 # Create the output directory if it doesn't exist
 if (!dir.exists(output_dir)) {
