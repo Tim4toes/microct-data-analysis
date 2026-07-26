@@ -1,3 +1,7 @@
+# This script adds missing columns to the cleaned data from the datafileprep.R script. 
+# Data from cleaned data is converted to 0-100% sequence # and interpolated to ensure 
+# all samples have the same number of rows (101).
+
 ## =============================================================================
 ## OPTIMIZED AUTOMATED SCRIPT FOR SINGLE WHOLE BONE ANALYSIS FILE
 ## =============================================================================

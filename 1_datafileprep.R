@@ -1,3 +1,8 @@
+# This script processes all CSV files in the specified input directory, removes unnecessary columns and lines, 
+# cleans the data according to the defined rules, and saves the cleaned versions in the output directory. 
+# It also inserts a 'Slice' column, calculates the percentage of length so that total analysed region = 100% 
+# and handles both control and treated files, ensuring unique naming for each processed file.
+
 # ------------------------
 # Define directories
 # ------------------------
