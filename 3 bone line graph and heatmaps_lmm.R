@@ -1,5 +1,9 @@
 ## =============================================================================
-## AUTOMATED MULTI-GROUP PLOTTING, LMM & HEATMAP SCRIPT
+## SCRIPT 3: 3 Bone line graph and heatmaps_LMM.R
+## DESCRIPTION: This script visualizes bone parameters and performs statistical analysis. 
+## It generates whole-bone line graphs with SEM ribbons, runs Linear Mixed Models (LMM) 
+## to calculate global and slice-by-slice p-values for group comparisons, exports the 
+## statistics to Excel, and produces significance heatmaps.
 ## =============================================================================
 
 #########################################################

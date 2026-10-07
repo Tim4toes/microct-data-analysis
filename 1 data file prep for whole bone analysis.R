@@ -1,3 +1,11 @@
+# =============================================================================
+# SCRIPT 1: data file prep for whole bone analysis.R
+# DESCRIPTION: This script prepares raw 2D microCT output data for whole bone analysis. 
+# It cleans the raw CSV files, removes extraneous headers and blank lines, standardizes 
+# the bone parameter columns, calculates the relative bone length percentage, and exports 
+# the cleaned files to a designated folder.
+# =============================================================================
+
 # =========================================================
 # SECTION 1: Define Directories and Groups
 # =========================================================

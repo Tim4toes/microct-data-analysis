@@ -1,5 +1,9 @@
 ## =============================================================================
-## AUTOMATED SCRIPT FOR COMBINED WHOLE BONE ANALYSIS (OPTIMIZED)
+## SCRIPT 2: 2 whole bone analysis percentage script.R
+## DESCRIPTION: This script consolidates the cleaned 2D bone data files into a single 
+## master dataset. It uses linear interpolation to standardize the bone measurements into 
+## exactly 101 slices (0% to 100% of bone length) for every sample, and exports the 
+## combined data as 'wholeboneanalysis.csv'.
 ## =============================================================================
 
 # =========================================================
