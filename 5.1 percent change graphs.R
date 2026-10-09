@@ -1,5 +1,5 @@
 # =============================================================================
-# SCRIPT 5: percentage change line graphs.R
+# SCRIPT 5.1: percentage change line graphs.R
 # DESCRIPTION: This script generates line graphs of percentage change data. 
 # It plots selected treatment groups against a defined baseline, featuring a 
 # dashed horizontal line at 0% to represent the baseline group. Users can 
